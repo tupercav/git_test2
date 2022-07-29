@@ -15,6 +15,7 @@ public class App
         uniLibrary.getBook("war and peace");
         uniLibrary.getPen();
         context.close();
+        System.out.println("added new branch");
     }
 }
 
