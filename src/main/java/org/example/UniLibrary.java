@@ -14,5 +14,6 @@ public class UniLibrary extends AbstractLibrary {
 
         System.out.println("getPen from UniLibrary ");
         System.out.println("and add commit to master branch");
+        System.out.println("1 commit from master to conflict");
     }
 }
