@@ -14,10 +14,7 @@ public class App
         UniLibrary uniLibrary = context.getBean("uniLibrary", UniLibrary.class);
         uniLibrary.getBook("war and peace");
         uniLibrary.getPen();
-
-
         context.close();
-
     }
 }
 
